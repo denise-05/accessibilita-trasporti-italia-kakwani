@@ -44,7 +44,11 @@ Richiede Python 3.10+. Lo script legge il file in `data/` e rigenera tabelle, gr
 
 ![Kakwani per ripartizione](output/grafici/kakwani_ripartizioni.png)
 ![Tempi medi](output/grafici/tempi_medi_ripartizioni.png)
+
 <!-- /RISULTATI -->
+
+![Dashboard Power BI - panoramica](powerbi/screenshot_1.png)
+![Dashboard Power BI - regioni](powerbi/screenshot_2.png)
 
 ## Strumenti
 Python (Pandas, NumPy), SQL (SQLite), Power BI, Excel.
